@@ -1,1 +1,2 @@
 initialized local repo and learnt a few basic git commands.
+were done
